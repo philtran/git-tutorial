@@ -1,1 +1,1 @@
-console.log("change Muahahah");
+console.log("change.js");
